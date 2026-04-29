@@ -1,0 +1,4 @@
+project_id = "rkzjmsfhtgqwbrgqlllz"
+
+[functions.extract-marksheet]
+verify_jwt = false
